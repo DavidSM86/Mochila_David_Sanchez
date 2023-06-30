@@ -1,0 +1,9 @@
+● La IP privada y pública de la máquina virtual
+Ip pública	inet:10.0.2.15
+Ip privada	10.0.2.255
+
+● La dirección MAC
+08:00:27:8f:43:a8
+
+● ¿Es diferente a la IP pública y privada de nuestra máquina host?
+Sí son diferentes.
